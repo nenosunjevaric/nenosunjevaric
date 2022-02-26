@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nenosunjevaric
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning FrontEnd  Web Development with focus on Java and React
+- 👀 I’m interested in traveling and interesting conversations 
+- 🌱 I’m currently learning FrontEnd  Web Development with focus on Javascript and React
 - 💞️ I’m looking to collaborate and learn new tools and ways of problem solving 
 - 📫 How to reach me ... Please email me at nenosunjevaric@gmail.com
 
